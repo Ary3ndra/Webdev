@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+
+.div{
+    align-content: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500;
+    font-size: larger;
+    text-align: center;
+}
+
+p{
+    font-size: 28;
+    font-style: bold;
+    text-align: center;
+}
+
+.tr{
+    height: 100;
+    width: 100;
+}
+
+.button{
+    background-color: white;
+    border: 2px solid #07f90f;
+    margin-left: 300%;
+    margin-right: 300%;
+}
+
+.tdYES{
+    width: 100;
+    background-color: green;
+    text-align: center; 
+    color: whitesmoke;
+}
+
+.tdNO{
+    width: 100;
+    background-color: red;
+    text-align: center; 
+    color: whitesmoke;
+}
