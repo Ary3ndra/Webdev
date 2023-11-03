@@ -1,2 +1,0 @@
-# Webdev
-Some Webdev exercise
